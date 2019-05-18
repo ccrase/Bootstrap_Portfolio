@@ -1,0 +1,96 @@
+.nav{
+    background-color: #ffffff;
+    border-bottom: 5px solid #666666;
+    height: 80px;
+    padding: 30px 200px 0 10px;
+    position: relative;
+    margin-bottom: 40px;
+
+}
+.nav-link{
+    color: #666666;
+    font-size: 18px;
+    font-family: 'Nanum Gothic', sans-serif;
+    letter-spacing: 1px;
+
+}
+.container-fluid{
+    background-color: #ffffff;
+    border: 2px solid #cccccc;
+    position: relative;
+    border-radius: 10px;
+    width: 75%;
+    padding: 20px;
+    margin-bottom: 200px;
+    margin-top: 40px;
+}
+
+h1{
+    text-align: center;
+    color: #666666;
+    font-family: 'Montserrat', sans-serif;
+}
+.h2{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    width: 25%;
+    padding: 13.5px;
+    font-size: 40px;
+    text-align: center;
+    margin-top: -120px;
+    margin-left: 200px;
+    position: relative;
+    z-index: 1;
+
+}
+.card{
+    padding: 20px!important;
+    border: none!important;
+}
+p{
+    padding-top: 20px;
+    color: #666666;
+    font-family: 'Arimo', sans-serif;
+}
+.navbar{
+    background-color: #666666!important;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    border-top: 5px solid #4aaaa5;
+}
+.copyright{
+    padding-top: 5px;
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.btn{
+    background-color: #4aaaa5!important;
+    border: none;
+    padding: 5px 20px 5px 20px;
+}
+.figure{
+    margin-top: 30px;
+}
+.figure-img{
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+}
+.figure-caption{
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 10px;
+    margin-top: -70px;
+    position: relative;
+    z-index: 0;
+    font-size: 16px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: bold;
+    
+
+}
