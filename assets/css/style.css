@@ -27,7 +27,7 @@
 
 h1{
     text-align: center;
-    color: #666666;
+    color: #4aaaa5;
     font-family: 'Montserrat', sans-serif;
 }
 .h2{
@@ -91,6 +91,34 @@ p{
     font-size: 16px;
     font-family: 'Nanum Gothic', sans-serif;
     font-weight: bold;
-    
+}
+@media screen and (max-width: 940px){
+    .figure{
+        width: 100%;
+    }
+    .h2{
+        margin-left: 40px;
+    }
+}
+@media screen and (max-width: 736px){
+    .h2{
+        position: absolute;
+        width: 100%;
+        margin-top: -170px;
+        margin-left: 0;
 
+    }
+    .nav{
+        margin-top: 50px;
+    }
+    img{
+        margin: 20px;
+    }
+
+    figcaption{
+        font-size: 8px!important;
+        position: relative;
+        margin-left: 20px;
+        width: 100%;
+    }
 }
